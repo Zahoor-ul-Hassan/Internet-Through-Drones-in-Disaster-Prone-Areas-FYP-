@@ -1,0 +1,2 @@
+# Internet-Through-Drones-in-Disaster-Prone-Areas-FYP-
+This project delivers resilient, drone-based mesh network to restore connectivity in disaster zones. By implementing the OLSRv2 protocol, the system enables autonomous, peer-to-peer communication between mobile nodes. Advanced modeling and performance analysis ensure stable data transmission despite high-latency links and constant topology changes
